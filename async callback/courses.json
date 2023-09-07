@@ -1,0 +1,66 @@
+{
+    "count":"3",
+    "courses":[
+        {
+            "name": "NLP",
+            "credit hours": "3",
+            "semester": "7"
+        },
+        {
+            "name": "AI",
+            "credit hours": "3",
+            "semester": "5"
+        },
+        {
+            "name": "DataWarehouse and DataMining",
+            "credit hours": "3",
+            "semester": "6"
+        },
+        {
+            "name": "NLP",
+            "credit hours": "3",
+            "semester": "7"
+        },
+        {
+            "name": "AI",
+            "credit hours": "3",
+            "semester": "5"
+        },
+        {
+            "name": "DataWarehouse and DataMining",
+            "credit hours": "3",
+            "semester": "6"
+        },
+        {
+            "name": "NLP",
+            "credit hours": "3",
+            "semester": "7"
+        },
+        {
+            "name": "AI",
+            "credit hours": "3",
+            "semester": "5"
+        },
+        {
+            "name": "DataWarehouse and DataMining",
+            "credit hours": "3",
+            "semester": "6"
+        },
+        {
+            "name": "NLP",
+            "credit hours": "3",
+            "semester": "7"
+        },
+        {
+            "name": "AI",
+            "credit hours": "3",
+            "semester": "5"
+        },
+        {
+            "name": "DataWarehouse and DataMining",
+            "credit hours": "3",
+            "semester": "6"
+        }
+        
+    ]
+}

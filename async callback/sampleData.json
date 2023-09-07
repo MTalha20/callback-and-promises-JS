@@ -1,0 +1,17 @@
+{
+    "count":"3",
+    "details":[
+        {
+            "age":"21",
+            "weight": "127lbs"
+        },
+        {
+            "age":"24",
+            "weight": "150lbs"
+        },
+        {
+            "age":"29",
+            "weight": "154lbs"
+        }
+    ]
+}
